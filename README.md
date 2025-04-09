@@ -2,6 +2,8 @@
 
 ## Overview 🎙️
 
+Check this site on
+https://speech-podcast-q-a-app.onrender.com/
 This project provides an end-to-end solution for processing podcast audio files and transforming them into interactive, searchable content. The pipeline allows users to upload a podcast MP3 file, converts it into text using Whisper, and then allows for question-answering using embeddings stored in Pinecone. The system provides seamless interaction with the podcast content, making it easier to navigate and extract valuable information.
 
 ## Key Features ✨
